@@ -1,2 +1,2 @@
 # shell-scripts
-shell脚本
+Linux shell脚本
